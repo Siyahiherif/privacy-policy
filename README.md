@@ -3,7 +3,7 @@ PRIVACY POLICY
 Last Updated: 25 February 2026
 
 Introduction
-This Privacy Policy applies to the mobile game "Galaxy Blast: Match 3 Puzzle", developed and published by D.S. Game Studios (Trendoraapp).
+This Privacy Policy applies to the mobile game "Galaxy Blast: Match 3 Puzzle", developed and published by Trendoraapp.
 
 This Privacy Policy explains how the Application handles user information.
 
